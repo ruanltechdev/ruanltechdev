@@ -1,12 +1,11 @@
 # Olá, eu sou Ruan Lima Alves 👋
 
-Estudante de Desenvolvimento de Sistemas na ETEC, com foco em desenvolvimento de software e projetos práticos. Construo aplicações desktop com Python e Tkinter e estudo tecnologias web, bancos de dados e integração de sistemas.
+Estudante de Desenvolvimento de Sistemas na ETEC e desenvolvedor em formação, com projetos práticos em Python e interesse em desenvolvimento web, bancos de dados e integração de sistemas.
 
 - 🎓 Ensino Médio Técnico em Desenvolvimento de Sistemas — ETEC (conclusão prevista: 2028)
-- 💻 Experiência prática em projetos próprios com Python, Tkinter e SQLite
-- 🌐 Conhecimentos iniciais em HTML, CSS, JavaScript e TypeScript
-- 🗄️ Estudando bancos de dados relacionais e MySQL
-- 🤝 Experiência de liderança e colaboração em projeto escolar com mentoria da JPMorgan Chase
+- 💻 Projetos próprios com Python, interfaces gráficas e banco de dados local
+- 🌐 Conhecimentos em desenvolvimento web e linguagens de programação
+- 🤝 Liderei um grupo no JPMorgan Chase — The School Challenge, em um projeto de inclusão profissional para pessoas com deficiência
 - 🎯 Em busca da primeira oportunidade em tecnologia
 
 ## Sobre mim
@@ -17,25 +16,28 @@ No **JPMorgan Chase — The School Challenge**, liderei meu grupo no desenvolvim
 
 ## Projetos
 
-### 🧮 Calculadora desktop — Python e Tkinter
+### 🧮 Calculadora desktop — Python
 
-Calculadora com operações matemáticas, histórico temporário, atalhos de teclado e validação segura de expressões.
+Aplicação com operações matemáticas, histórico temporário, atalhos de teclado e validação segura de expressões. A interface gráfica usa Tkinter.
 
 - [Abrir repositório](https://github.com/ruanltechdev/calculadora-python)
 - [Ver instruções e detalhes](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
 
-### 👥 Sistema de cadastro — Python, Tkinter e SQLite
+### 👥 Sistema de cadastro — Python e SQLite
 
-Aplicação para cadastrar, buscar, editar e remover contatos, com dados salvos localmente em SQLite.
+Aplicação para cadastrar, buscar, editar e remover contatos, com dados salvos localmente em SQLite. A interface gráfica usa Tkinter.
 
 - [Abrir repositório](https://github.com/ruanltechdev/sistema-cadastro-python)
 - [Ver instruções e detalhes](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-**Aplicadas em projetos:** Python, Tkinter, SQLite, Git e GitHub.  
-**Conhecimentos em desenvolvimento:** HTML, CSS, JavaScript, TypeScript, Java e MySQL.  
-**Interesses atuais:** APIs, back-end, integração de sistemas e IA aplicada ao desenvolvimento.
+- **Linguagens:** Python, Java, JavaScript e TypeScript
+- **Web:** HTML e CSS
+- **Bancos de dados e consultas:** SQLite, MySQL e SQL
+- **Biblioteca para interfaces gráficas:** Tkinter
+- **Ferramentas:** Git, GitHub e Visual Studio Code
+- **Em desenvolvimento:** integração com APIs e aplicações back-end
 
 ## Contato
 
