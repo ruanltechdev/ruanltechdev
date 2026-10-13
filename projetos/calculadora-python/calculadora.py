@@ -197,15 +197,6 @@ class CalculatorApp:
         self.root.bind("<KP_Enter>", lambda _event: self.calculate())
         self.root.bind("<Escape>", lambda _event: self.clear())
         self.root.bind("<BackSpace>", lambda _event: self.backspace())
-        self.root.bind("<Key>", self._on_key)
-
-    def _on_key(self, event):
-        char = event.char
-        if char in "0123456789.()+-%":
-            self._append(char)
-        elif char in "+-*/^":
-            mapped = {"*": "*", "/": "/", "^": "**"}.get(char, char)
-            self._append(mapped)
 
     def _handle_button(self, action: str, value: str):
         if action == "clear":
