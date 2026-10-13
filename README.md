@@ -1,62 +1,43 @@
-# Olá! Eu sou Ruan 👋
+# Olá, eu sou Ruan Lima Alves 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
-💻 Aprendendo desenvolvimento de software por meio de projetos práticos  
-🐍 Python | 🌐 HTML e CSS | 🗄️ SQL em estudo  
-🚀 Construindo, testando e documentando projetos para evoluir como desenvolvedor
+Estudante de Desenvolvimento de Sistemas na ETEC, com foco em desenvolvimento de software e projetos práticos. Construo aplicações desktop com Python e Tkinter e estudo tecnologias web, bancos de dados e integração de sistemas.
 
----
+- 🎓 Ensino Médio Técnico em Desenvolvimento de Sistemas — ETEC (conclusão prevista: 2028)
+- 💻 Experiência prática em projetos próprios com Python, Tkinter e SQLite
+- 🌐 Conhecimentos iniciais em HTML, CSS, JavaScript e TypeScript
+- 🗄️ Estudando bancos de dados relacionais e MySQL
+- 🤝 Experiência de liderança e colaboração em projeto escolar com mentoria da JPMorgan Chase
+- 🎯 Em busca da primeira oportunidade em tecnologia
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas na ETEC e estou construindo minha base em programação com prática e projetos próprios.
+Gosto de transformar o que estudo em aplicações que resolvem tarefas concretas. Nos projetos, pratico interface gráfica, validação de entradas, tratamento de erros, organização de código e persistência local de dados.
 
-Quero aprender a desenvolver aplicações de verdade, entendendo a lógica por trás do código, organizando arquivos, tratando erros, testando soluções e usando Git e GitHub para acompanhar a evolução dos projetos.
+No **JPMorgan Chase — The School Challenge**, liderei meu grupo no desenvolvimento de um site pensado para aproximar oportunidades de trabalho para pessoas com deficiência (PcD) de candidatos qualificados. Atuei especialmente em layout e design e colaborei com as demais frentes, com orientação de mentores.
 
-Atualmente, estudo e pratico:
+## Projetos
 
-- Python e lógica de programação
-- Interfaces gráficas com Tkinter
-- HTML e CSS
-- Banco de dados e SQL
-- Git e GitHub
-- Fundamentos de desenvolvimento de sistemas
+### 🧮 Calculadora desktop — Python e Tkinter
 
-## 🚀 Projetos
+Calculadora com operações matemáticas, histórico temporário, atalhos de teclado e validação segura de expressões.
 
-### 🧮 Calculadora em Python com Tkinter
+- [Abrir repositório](https://github.com/ruanltechdev/calculadora-python)
+- [Ver instruções e detalhes](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
 
-Aplicação desktop com operações matemáticas, histórico temporário, atalhos de teclado e validação de expressões.
+### 👥 Sistema de cadastro — Python, Tkinter e SQLite
 
-- [Ver repositório da calculadora](https://github.com/ruanltechdev/calculadora-python)
-- [Ler a documentação e as instruções de execução](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
+Aplicação para cadastrar, buscar, editar e remover contatos, com dados salvos localmente em SQLite.
 
-**Próximas melhorias planejadas:** testes automatizados para a lógica matemática e capturas de tela da aplicação em funcionamento.
+- [Abrir repositório](https://github.com/ruanltechdev/sistema-cadastro-python)
+- [Ver instruções e detalhes](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
 
-### 👥 Sistema de cadastro com Tkinter e SQLite
+## Tecnologias
 
-Aplicação para cadastrar, buscar, editar e excluir contatos, com persistência local em SQLite.
+**Aplicadas em projetos:** Python, Tkinter, SQLite, Git e GitHub.  
+**Conhecimentos em desenvolvimento:** HTML, CSS, JavaScript, TypeScript, Java e MySQL.  
+**Interesses atuais:** APIs, back-end, integração de sistemas e IA aplicada ao desenvolvimento.
 
-- [Ver repositório do sistema de cadastro](https://github.com/ruanltechdev/sistema-cadastro-python)
-- [Ler a documentação e as instruções de execução](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
+## Contato
 
-## 🛠️ Tecnologias e ferramentas
-
-**Praticando:** Python, Tkinter, SQLite, HTML, CSS, SQL, Git e GitHub.
-
-As tecnologias listadas representam meu aprendizado e prática atual; não significam domínio profissional de todas elas.
-
-## 📚 Como estou evoluindo
-
-> Aprender → Praticar → Construir → Testar → Corrigir → Documentar → Publicar
-
-Meu objetivo é transformar o conteúdo estudado em projetos que funcionem, sejam compreensíveis e demonstrem minha evolução técnica.
-
-## 📫 Contato
-
-- LinkedIn: [Ruan Lima Alves](https://www.linkedin.com/in/ruan-lima-alves-8897a43a8)
-- GitHub: [@ruanltechdev](https://github.com/ruanltechdev)
-
----
-
-*Este perfil acompanha minha evolução como estudante e futuro profissional de tecnologia.*
+- [LinkedIn](https://www.linkedin.com/in/ruan-lima-alves-8897a43a8)
+- [GitHub](https://github.com/ruanltechdev)
