@@ -28,18 +28,21 @@ Atualmente, estudo e pratico:
 
 Aplicação desktop com operações matemáticas, histórico temporário, atalhos de teclado e validação de expressões.
 
-- [Ver código e arquivos do projeto](https://github.com/ruanltechdev/ruanltechdev/tree/main/projetos/calculadora-python)
-- [Ler a documentação e as instruções de execução](https://github.com/ruanltechdev/ruanltechdev/blob/main/projetos/calculadora-python/README.md)
+- [Ver repositório da calculadora](https://github.com/ruanltechdev/calculadora-python)
+- [Ler a documentação e as instruções de execução](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
 
 **Próximas melhorias planejadas:** testes automatizados para a lógica matemática e capturas de tela da aplicação em funcionamento.
 
-### 👥 Sistema de cadastro com Tkinter
+### 👥 Sistema de cadastro com Tkinter e SQLite
 
-Quero desenvolver e documentar um sistema de cadastro com interface gráfica. O repositório público desse projeto ainda não foi identificado nesta auditoria; adicionarei o link aqui quando o projeto estiver publicado e verificado.
+Aplicação para cadastrar, buscar, editar e excluir contatos, com persistência local em SQLite.
+
+- [Ver repositório do sistema de cadastro](https://github.com/ruanltechdev/sistema-cadastro-python)
+- [Ler a documentação e as instruções de execução](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Praticando:** Python, Tkinter, HTML, CSS, SQL, Git e GitHub.
+**Praticando:** Python, Tkinter, SQLite, HTML, CSS, SQL, Git e GitHub.
 
 As tecnologias listadas representam meu aprendizado e prática atual; não significam domínio profissional de todas elas.
 
