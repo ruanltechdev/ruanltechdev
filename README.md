@@ -1,71 +1,59 @@
 # Olá! Eu sou Ruan 👋
 
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
-💻 Focado em programação e desenvolvimento de software  
-🐍 Python | 🌐 HTML & CSS | 🗄️ SQL  
-🚀 Construindo projetos e evoluindo na prática
+💻 Aprendendo desenvolvimento de software por meio de projetos práticos  
+🐍 Python | 🌐 HTML e CSS | 🗄️ SQL em estudo  
+🚀 Construindo, testando e documentando projetos para evoluir como desenvolvedor
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas e estou construindo minha base em programação através de projetos práticos.
+Sou estudante de Desenvolvimento de Sistemas na ETEC e estou construindo minha base em programação com prática e projetos próprios.
 
-Meu objetivo é evoluir como desenvolvedor de software, aprendendo não apenas a escrever código, mas também a entender como os sistemas funcionam, resolver problemas, testar, corrigir e publicar projetos.
+Quero aprender a desenvolver aplicações de verdade, entendendo a lógica por trás do código, organizando arquivos, tratando erros, testando soluções e usando Git e GitHub para acompanhar a evolução dos projetos.
 
-Atualmente estou estudando e praticando:
+Atualmente, estudo e pratico:
 
-- Python
+- Python e lógica de programação
+- Interfaces gráficas com Tkinter
 - HTML e CSS
-- Banco de Dados / SQL
+- Banco de dados e SQL
 - Git e GitHub
-- Desenvolvimento de sistemas
-- Lógica de programação
-
----
+- Fundamentos de desenvolvimento de sistemas
 
 ## 🚀 Projetos
 
-### 🧮 Calculadora em Python
+### 🧮 Calculadora em Python com Tkinter
 
-Calculadora desenvolvida em Python para praticar lógica de programação, funções e operações matemáticas.
+Aplicação desktop com operações matemáticas, histórico temporário, atalhos de teclado e validação de expressões.
 
-🔗 [Ver projeto](#)
+- [Ver código e arquivos do projeto](https://github.com/ruanltechdev/ruanltechdev/tree/main/projetos/calculadora-python)
+- [Ler a documentação e as instruções de execução](https://github.com/ruanltechdev/ruanltechdev/blob/main/projetos/calculadora-python/README.md)
 
-### 👥 Sistema de Cadastro com Tkinter
+**Próximas melhorias planejadas:** testes automatizados para a lógica matemática e capturas de tela da aplicação em funcionamento.
 
-Sistema de cadastro desenvolvido em Python utilizando Tkinter, com interface gráfica para praticar conceitos de programação e construção de aplicações.
+### 👥 Sistema de cadastro com Tkinter
 
-🔗 [Ver projeto](#)
+Quero desenvolver e documentar um sistema de cadastro com interface gráfica. O repositório público desse projeto ainda não foi identificado nesta auditoria; adicionarei o link aqui quando o projeto estiver publicado e verificado.
 
----
+## 🛠️ Tecnologias e ferramentas
 
-## 🛠️ Tecnologias
+**Praticando:** Python, Tkinter, HTML, CSS, SQL, Git e GitHub.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+As tecnologias listadas representam meu aprendizado e prática atual; não significam domínio profissional de todas elas.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 📚 Como estou evoluindo
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> Aprender → Praticar → Construir → Testar → Corrigir → Documentar → Publicar
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📚 Atualmente estudando
-
-> Aprender → Praticar → Construir → Testar → Corrigir → Publicar → Evoluir
-
-Estou buscando transformar cada conteúdo estudado em projetos reais para construir experiência e um portfólio consistente.
-
----
+Meu objetivo é transformar o conteúdo estudado em projetos que funcionem, sejam compreensíveis e demonstrem minha evolução técnica.
 
 ## 📫 Contato
 
-💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/ruan-lima-alves-8897a43a8)
+- LinkedIn: [Ruan Lima Alves](https://www.linkedin.com/in/ruan-lima-alves-8897a43a8)
+- GitHub: [@ruanltechdev](https://github.com/ruanltechdev)
 
 ---
 
-⭐ Este perfil acompanha minha evolução como estudante e futuro desenvolvedor de software.
+*Este perfil acompanha minha evolução como estudante e futuro profissional de tecnologia.*
