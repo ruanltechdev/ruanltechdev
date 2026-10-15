@@ -1,43 +1,36 @@
-# Olá, eu sou Ruan Lima Alves 👋
+# Ruan Lima Alves
 
-Estudante de Desenvolvimento de Sistemas na ETEC e desenvolvedor em formação, com projetos práticos em Python e interesse em desenvolvimento web, bancos de dados e integração de sistemas.
+**Estudante de Desenvolvimento de Sistemas na ETEC · São Paulo, Brasil**
 
-- 🎓 Ensino Médio Técnico em Desenvolvimento de Sistemas — ETEC (conclusão prevista: 2028)
-- 💻 Projetos próprios com Python, interfaces gráficas e banco de dados local
-- 🌐 Conhecimentos em desenvolvimento web e linguagens de programação
-- 🤝 Liderei um grupo no JPMorgan Chase — The School Challenge, em um projeto de inclusão profissional para pessoas com deficiência
-- 🎯 Em busca da primeira oportunidade em tecnologia
+Estou construindo minha base em desenvolvimento de software por meio de projetos práticos e aprendizado contínuo. Busco minha primeira oportunidade como **Jovem Aprendiz ou estagiário em tecnologia**.
 
-## Sobre mim
+## Projetos em destaque
 
-Gosto de transformar o que estudo em aplicações que resolvem tarefas concretas. Nos projetos, pratico interface gráfica, validação de entradas, tratamento de erros, organização de código e persistência local de dados.
+### Calculadora desktop — Python e Tkinter
 
-No **JPMorgan Chase — The School Challenge**, liderei meu grupo no desenvolvimento de um site pensado para aproximar oportunidades de trabalho para pessoas com deficiência (PcD) de candidatos qualificados. Atuei especialmente em layout e design e colaborei com as demais frentes, com orientação de mentores.
+Aplicação de estudo com operações matemáticas, histórico durante a sessão, atalhos de teclado e avaliação restrita de expressões usando a AST do Python.
 
-## Projetos
+- [Código e instruções](https://github.com/ruanltechdev/calculadora-python)
+- [README do projeto](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
 
-### 🧮 Calculadora desktop — Python
+### Sistema de cadastro — Python, Tkinter e SQLite
 
-Aplicação com operações matemáticas, histórico temporário, atalhos de teclado e validação segura de expressões. A interface gráfica usa Tkinter.
+Aplicação desktop para cadastrar, consultar, editar e remover contatos. Os dados são persistidos localmente em SQLite; o projeto também pratica validação de campos e prevenção de e-mails duplicados.
 
-- [Abrir repositório](https://github.com/ruanltechdev/calculadora-python)
-- [Ver instruções e detalhes](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
+- [Código e instruções](https://github.com/ruanltechdev/sistema-cadastro-python)
+- [README do projeto](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
 
-### 👥 Sistema de cadastro — Python e SQLite
+## Projeto colaborativo
 
-Aplicação para cadastrar, buscar, editar e remover contatos, com dados salvos localmente em SQLite. A interface gráfica usa Tkinter.
+No **JPMorgan Chase — The School Challenge**, liderei meu grupo na criação de uma proposta de site para aproximar oportunidades de trabalho de pessoas com deficiência e candidatos qualificados. Contribuí principalmente com layout e design, em colaboração com o grupo e orientação de mentores.
 
-- [Abrir repositório](https://github.com/ruanltechdev/sistema-cadastro-python)
-- [Ver instruções e detalhes](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
+## Tecnologias
 
-## Tecnologias e ferramentas
+- **Já pratiquei em projetos:** Python, Tkinter e SQLite.
+- **Em estudo e prática:** fundamentos de Python, HTML, CSS, JavaScript, SQL, APIs e desenvolvimento backend.
+- **Ferramentas:** Git, GitHub e Visual Studio Code.
 
-- **Linguagens:** Python, Java, JavaScript e TypeScript
-- **Web:** HTML e CSS
-- **Bancos de dados e consultas:** SQLite, MySQL e SQL
-- **Biblioteca para interfaces gráficas:** Tkinter
-- **Ferramentas:** Git, GitHub e Visual Studio Code
-- **Em desenvolvimento:** integração com APIs e aplicações back-end
+Os projetos deste perfil são trabalhos de estudo e prática. Estou ampliando minha experiência gradualmente e descrevo cada tecnologia de acordo com o que já pratiquei.
 
 ## Contato
 
