@@ -1,41 +1,53 @@
+<div align="center">
+
 # Ruan Lima Alves
 
-**Desenvolvedor Backend · Python · SQL · São Paulo, Brasil**
+### Desenvolvimento de software · Backend · Web
 
-Tenho projetos práticos em Python e SQL e foco meu desenvolvimento profissional em backend. Estou aprofundando meus conhecimentos em APIs REST e ampliando minha experiência por meio de projetos aplicados. Busco oportunidades em desenvolvimento de software.
+**Python · SQL/MySQL · Git/GitHub · HTML · CSS · JavaScript**
 
-## Projetos em destaque
+São Paulo, Brasil · Estudante de Desenvolvimento de Sistemas na ETEC Abdias do Nascimento
 
-### Calculadora desktop em Python
+</div>
 
-Aplicação de estudo com operações matemáticas, histórico durante a sessão, atalhos de teclado e avaliação restrita de expressões usando a AST do Python. A interface gráfica foi feita com Tkinter.
+---
 
-- [Código e instruções](https://github.com/ruanltechdev/calculadora-python)
-- [README do projeto](https://github.com/ruanltechdev/calculadora-python/blob/main/README.md)
+## Perfil
 
-### Sistema de cadastro de contatos em Python
+Estou construindo minha trajetória em desenvolvimento de software, com interesse principal em backend e abertura para desenvolvimento web e outras áreas de tecnologia. Gosto de entender como lógica, dados e interface se conectam para criar soluções úteis.
 
-Aplicação desktop para cadastrar, consultar, editar e remover contatos. Os dados são persistidos localmente em SQLite; o projeto também pratica validação de campos e prevenção de e-mails duplicados. A interface gráfica foi feita com Tkinter.
+Minha formação técnica amplia minha base em programação, orientação a objetos, desenvolvimento web e bancos de dados. Tenho contato com Python, SQL/MySQL, Git e GitHub, HTML, CSS e JavaScript. Também estudo Java, TypeScript e APIs REST, avançando passo a passo e buscando compreender cada ferramenta na prática.
 
-- [Código e instruções](https://github.com/ruanltechdev/sistema-cadastro-python)
-- [README do projeto](https://github.com/ruanltechdev/sistema-cadastro-python/blob/main/README.md)
+## Competências e ferramentas
 
-## Projeto colaborativo
+| Área | Tecnologias e conhecimentos |
+| --- | --- |
+| Programação | Python · JavaScript · Java · TypeScript |
+| Web | HTML · CSS · fundamentos de desenvolvimento web |
+| Dados | SQL · MySQL · SQLite |
+| Colaboração e fluxo de trabalho | Git · GitHub · Visual Studio Code |
+| Em aprofundamento | Fundamentos de Python · APIs REST · desenvolvimento backend |
 
-No **JPMorgan Chase — The School Challenge**, liderei meu grupo na criação de uma proposta de site para aproximar oportunidades de trabalho de pessoas com deficiência e candidatos qualificados. Contribuí com codificação e implementação, além de layout e design, em colaboração com o grupo e orientação de mentores.
+*Os itens refletem minha formação, prática e estudos atuais; continuo ampliando a experiência em cada um deles.*
 
-## Tecnologias
+## Colaboração e iniciativa
 
-- **Praticadas em projetos:** Python e SQLite.
-- **Biblioteca utilizada:** Tkinter, para criar as interfaces gráficas dos projetos desktop.
-- **Em estudo:** fundamentos de Python, HTML, CSS, JavaScript, APIs REST e desenvolvimento backend.
-- **Ferramentas:** Git, GitHub e Visual Studio Code.
+No **JPMorgan Chase — The School Challenge**, liderei uma equipe na criação de uma proposta web para aproximar pessoas com deficiência de oportunidades de trabalho compatíveis com suas qualificações. Colaborei com implementação, layout e design e com a resolução de desafios junto ao grupo e aos mentores.
+
+Essa experiência também reforçou competências que levo para o desenvolvimento: comunicação, colaboração, iniciativa e disposição para aprender com outras pessoas.
+
+## Prática aplicada
+
+As aplicações abaixo são exercícios de aprendizagem que me ajudaram a praticar lógica, persistência local e organização de código:
+
+- **Cadastro de contatos** — Python e SQLite; operações de cadastro, consulta, edição e remoção, com validação de campos. [Código e instruções](https://github.com/ruanltechdev/sistema-cadastro-python)
+- **Calculadora desktop** — Python; operações matemáticas, histórico durante a sessão e atalhos de teclado. [Código e instruções](https://github.com/ruanltechdev/calculadora-python)
 
 ## Formação
 
-ETEC Abdias do Nascimento — Ensino Médio Técnico em Desenvolvimento de Sistemas, cursando. Conclusão prevista para 2028.
+**ETEC Abdias do Nascimento**  
+Ensino Médio Técnico em Desenvolvimento de Sistemas · cursando · conclusão prevista para 2028
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/ruan-lima-alves-8897a43a8)
-- [GitHub](https://github.com/ruanltechdev)
+[LinkedIn](https://www.linkedin.com/in/ruan-lima-alves-8897a43a8) · [E-mail](mailto:ruanl.tech.dev@gmail.com)
