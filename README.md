@@ -1,8 +1,8 @@
 # Ruan Lima Alves
 
-**Estudante de Desenvolvimento de Sistemas na ETEC · São Paulo, Brasil**
+**Desenvolvedor Backend · Python · SQL · São Paulo, Brasil**
 
-Estou construindo minha base em desenvolvimento de software por meio de projetos práticos e aprendizado contínuo. Busco minha primeira oportunidade como **Jovem Aprendiz ou estagiário em tecnologia**.
+Tenho projetos práticos em Python e SQL e foco meu desenvolvimento profissional em backend. Estou aprofundando meus conhecimentos em APIs REST e ampliando minha experiência por meio de projetos aplicados. Busco oportunidades em desenvolvimento de software.
 
 ## Projetos em destaque
 
@@ -28,10 +28,12 @@ No **JPMorgan Chase — The School Challenge**, liderei meu grupo na criação d
 
 - **Praticadas em projetos:** Python e SQLite.
 - **Biblioteca utilizada:** Tkinter, para criar as interfaces gráficas dos projetos desktop.
-- **Em estudo e prática:** fundamentos de Python, HTML, CSS, JavaScript, SQL, APIs e desenvolvimento backend.
+- **Em estudo:** fundamentos de Python, HTML, CSS, JavaScript, APIs REST e desenvolvimento backend.
 - **Ferramentas:** Git, GitHub e Visual Studio Code.
 
-Os projetos deste perfil são trabalhos de estudo e prática. Estou ampliando minha experiência gradualmente e descrevo cada tecnologia de acordo com o que já pratiquei.
+## Formação
+
+ETEC Abdias do Nascimento — Ensino Médio Técnico em Desenvolvimento de Sistemas, cursando. Conclusão prevista para 2028.
 
 ## Contato
 
